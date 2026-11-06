@@ -2,8 +2,19 @@
 
 Lightweight Discord Rich Presence client for **VALORANT** featuring a clean AMOLED interface and system tray integration.
 
+<p align="center">
 <img width="392" height="312" alt="VALORANT-RPC_VDKaNwMBKr" src="https://github.com/user-attachments/assets/71dc808e-624d-455e-9a8d-49b4b8e0c3bb" />
+</p>
+
+<p align="center">
 <img width="247" height="109" alt="vesktop_ibzqaEmaSc" src="https://github.com/user-attachments/assets/6dc1745b-053f-47a6-a5c7-ab7eeeb8db8e" />
+</p>
+
+  <p align="center">
+  <img src="https://img.shields.io/github/v/release/hellkxxxi/valorant-rpc?color=990000&label=version&style=flat-square">
+  <img src="https://img.shields.io/github/license/hellkxxxi/valorant-rpc?color=990000&style=flat-square">
+  <img src="https://img.shields.io/github/downloads/hellkxxxi/valorant-rpc/total?color=990000&style=flat-square">
+</p>
 
 ## ✨ Features
 - **Live Match Status:** Displays current game mode, map, live score, and party size.
